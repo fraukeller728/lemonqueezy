@@ -1,4 +1,11 @@
-# Willkommen auf meiner neuen Website!
+---
+layout: default
+---
+
+{% include nav.html %}
+
+# Willkommen auf meiner Seite!
+
 
 Hallo und schön, dass du da bist! Diese Webseite wird komplett über Markdown geschrieben und von GitHub Pages (mit Jekyll) im Hintergrund umgewandelt.
 
