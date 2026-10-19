@@ -1,3 +1,10 @@
+* [Startseite](index.md)
+* **Materialien**
+  * [Mathematik](materialien/mathematik.md)
+  * [Informatik](materialien/informatik.md)
+* [Über mich](ueber-mich.md)
+
+
 # Willkommen auf meiner neuen Website!
 
 Hallo und schön, dass du da bist! Diese Webseite wird komplett über Markdown geschrieben und von GitHub Pages (mit Jekyll) im Hintergrund umgewandelt.
