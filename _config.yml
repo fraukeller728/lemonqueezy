@@ -4,11 +4,8 @@ theme: minima
 
 
 # Hier definierst du deine eigenen Header-Buttons:
-buttons:
-  - name: "Startseite"
-    url: "/"
-  - name: "Materialien"
-    url: "/material.html"
-
+header_pages:
+  - index.md
+  - material.md
 
  
