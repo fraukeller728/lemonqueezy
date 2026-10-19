@@ -1,3 +1,9 @@
+---
+layout: single
+title: "Start"
+permalink: /index/
+---
+
 # Willkommen auf meiner Seite!
 
 
