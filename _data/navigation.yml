@@ -2,5 +2,5 @@
 main:
   - title: "Startseite"
     url: /
-  - title: "Materialien"
+  - title: "Material"
     url: /material/
