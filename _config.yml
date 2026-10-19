@@ -1,4 +1,5 @@
 title: "Meine Markdown-Webseite"
 description: "Ein kurzer Leitfaden"
-theme: jekyll-theme-cayman
+remote_theme: poole/hyde
+
  
