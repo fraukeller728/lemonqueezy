@@ -1,8 +1,6 @@
 title: "Meine Markdown-Webseite"
 description: "Ein kurzer Leitfaden"
-remote_theme: mmistakes/minimal-mistakes
-
-
+theme: minima
 
 
 # Hier definierst du deine eigenen Header-Buttons:
