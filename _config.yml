@@ -1,5 +1,6 @@
 title: "Meine Markdown-Webseite"
 description: "Ein kurzer Leitfaden"
-#theme: jekyll-theme-cayman
-remote_theme: zerostaticthemes/jekyll-serif-theme⁠
-baseurl: "/jekyll-serif-theme/"
+theme: jekyll-theme-cayman
+#remote_theme: zerostaticthemes/jekyll-serif-theme⁠
+#baseurl: "/jekyll-serif-theme/"
+ 
