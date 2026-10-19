@@ -1,8 +1,3 @@
----
-layout: default
-title: "Material"
----
-
 # Materialien & Fachbereiche
 
 Wähle einen Bereich aus, um zu den Inhalten zu gelangen:
