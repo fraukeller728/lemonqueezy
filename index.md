@@ -23,10 +23,9 @@ Hier ist eine kurze Übersicht, was man mit Markdown alles machen kann:
 ### Ein kleiner Einblick (Code-Beispiel)
 So sieht ein kurzer Code-Block aus:
 
-\`\`\`markdown
+```markdown
 # Das ist eine Überschrift in Markdown
 * Ein Listenpunkt
-\`\`\`
 
 ---
 
