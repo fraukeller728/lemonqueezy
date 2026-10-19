@@ -4,8 +4,8 @@ theme: minima
 
 
 # Hier definierst du deine eigenen Header-Buttons:
-header_pages:
-  - index.md
-  - material.md
+minima:
+  nav_pages:
+ - index.md
+    - material.md
 
- 
