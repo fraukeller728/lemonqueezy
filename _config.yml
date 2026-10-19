@@ -2,12 +2,6 @@ title: "Meine Markdown-Webseite"
 description: "Ein kurzer Leitfaden"
 theme: jekyll-theme-cayman
 
-# Ändert den Text des GitHub-Buttons
-github:
-  repository_url: https://github.com/DeinBenutzername/DeinRepoName
-  # Falls du den Button komplett ausblenden möchtest, kannst du das Theme wechseln 
-  # oder ihn über die Optionen steuern (siehe unten).
-
 # Hier definierst du deine eigenen Header-Buttons:
 buttons:
   - name: "Startseite"
