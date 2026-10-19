@@ -1,8 +1,3 @@
----
-layout: default
-title: "Start"
----
-
 # Willkommen auf meiner Seite!
 
 
