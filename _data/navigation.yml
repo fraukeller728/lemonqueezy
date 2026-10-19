@@ -1,0 +1,6 @@
+# Hauptnavigation für das Minimal Mistakes Theme
+main:
+  - title: "Startseite"
+    url: /
+  - title: "Materialien"
+    url: /material/
