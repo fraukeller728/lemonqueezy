@@ -2,4 +2,10 @@ title: "Meine Markdown-Webseite"
 description: "Ein kurzer Leitfaden"
 theme: jekyll-theme-cayman
 
+# Fügt deine Markdown-Seiten automatisch als Buttons im Banner oben ein:
+header_pages:
+  - index.md
+  - ueber-mich.md
+  - materialien.md
+
  
