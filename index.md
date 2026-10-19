@@ -1,9 +1,9 @@
-## Willkommen auf meiner Seite!
+### Willkommen auf meiner Seite!
 
 
 Hallo und schön, dass du da bist! Diese Webseite wird komplett über Markdown geschrieben und von GitHub Pages (mit Jekyll) im Hintergrund umgewandelt.
 
-## Was dich hier erwartet
+### Was dich hier erwartet
 Auf dieser Seite teste und sammle ich verschiedene Dinge:
 * Meine ersten Schritte mit **GitHub Pages**
 * Kleine Projekte und Notizen
@@ -13,7 +13,7 @@ Auf dieser Seite teste und sammle ich verschiedene Dinge:
 
 ---
 
-## Beliebte Befehle im Überblick
+### Beliebte Befehle im Überblick
 
 Hier ist eine kurze Übersicht, was man mit Markdown alles machen kann:
 
@@ -25,7 +25,7 @@ Hier ist eine kurze Übersicht, was man mit Markdown alles machen kann:
 So sieht ein kurzer Code-Block aus:
 
 ```markdown
-# Das ist eine Überschrift in Markdown
+### Das ist eine Überschrift in Markdown
 * Ein Listenpunkt
 
 ---
