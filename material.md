@@ -1,6 +1,3 @@
-# Hier kommen deine Materialien hin...
-
-
 # Material
 
 Wähle einen Bereich aus, um zu den Inhalten zu gelangen:
