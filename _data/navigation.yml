@@ -3,4 +3,4 @@ main:
   - title: "Startseite"
     url: /
   - title: "Material"
-    url: /material/
+    url: /material.md
