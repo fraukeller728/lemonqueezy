@@ -1,11 +1,3 @@
 title: "Meine Markdown-Webseite"
 description: "Ein kurzer Leitfaden"
 theme: minima
-
-
-# Hier definierst du deine eigenen Header-Buttons:
-minima:
-  nav_pages:
- - index.md
-    - material.md
-
