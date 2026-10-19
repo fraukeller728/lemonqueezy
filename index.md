@@ -1,3 +1,8 @@
+---
+layout: home
+---
+
+
 # Willkommen auf meiner neuen Website!
 
 Hallo und schön, dass du da bist! Diese Webseite wird komplett über Markdown geschrieben und von GitHub Pages (mit Jekyll) im Hintergrund umgewandelt.
