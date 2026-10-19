@@ -2,9 +2,14 @@ title: "Meine Markdown-Webseite"
 description: "Ein kurzer Leitfaden"
 theme: jekyll-theme-cayman
 
-# Fügt deine Markdown-Seiten automatisch als Buttons im Banner oben ein:
-header_pages:
-  - index.md
-  - material.md
+# Hier definierst du deine eigenen Header-Buttons:
+buttons:
+  - name: "Startseite"
+    url: "/"
+  - name: "Materialien"
+    url: "/materialien.html"
+  - name: "Über mich"
+    url: "/ueber-mich.html"
+
 
  
