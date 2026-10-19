@@ -7,7 +7,7 @@ buttons:
   - name: "Startseite"
     url: "/"
   - name: "Materialien"
-    url: "/material.md"
+    url: "/material.html"
 
 
  
