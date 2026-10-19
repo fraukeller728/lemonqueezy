@@ -2,8 +2,6 @@
 layout: default
 ---
 
-{% include nav.html %}
-
 # Willkommen auf meiner Seite!
 
 
