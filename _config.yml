@@ -1,8 +1,9 @@
 title: "Meine Markdown-Webseite"
 description: "Ein kurzer Leitfaden"
-theme: jekyll-theme-cayman
+remote_theme: mmistakes/minimal-mistakes
 
-show_downloads: true
+
+
 
 # Hier definierst du deine eigenen Header-Buttons:
 buttons:
