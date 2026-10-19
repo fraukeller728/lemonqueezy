@@ -13,3 +13,12 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
 
+
+# Das Haupt-Navigationsmenü oben auf der Website
+navigation_links:
+  - title: "Startseite"
+    url: "/"
+  - title: "Materialien"
+    url: "/material/"
+
+
