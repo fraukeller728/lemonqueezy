@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Willkommen auf meiner Seite!
 
 
