@@ -1,5 +1,6 @@
 ---
 layout: default
+title: "Material"
 ---
 
 # Materialien & Fachbereiche
