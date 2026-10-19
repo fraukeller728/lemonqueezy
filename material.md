@@ -1,9 +1,3 @@
----
-layout: single
-title: "Material"
-permalink: /material/
----
-
 # Hier kommen deine Materialien hin...
 
 
