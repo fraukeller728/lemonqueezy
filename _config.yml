@@ -6,7 +6,7 @@ permalink: pretty
 
 # Nur nötig, wenn die Seite unter https://NAME.github.io/REPOSITORY/ läuft:
 # baseurl: "/REPOSITORY"
-baseurl: ""
+baseurl: "/lemonqueezy"
 
 exclude: [README.md]
 defaults:
