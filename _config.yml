@@ -1,24 +1,14 @@
-title: "Frau Kellers Website"
-description: "Markdown-Webseite"
+# Grundeinstellungen – hier Titel und Beschreibung anpassen
+title: Frau Kellers Webseite
+description: Platzhalter-Beschreibung der Webseite.
+lang: de
+permalink: pretty
 
-remote_theme: mmistakes/minimal-mistakes
-minimal_mistakes_skin: "air"
+# Nur nötig, wenn die Seite unter https://NAME.github.io/REPOSITORY/ läuft:
+# baseurl: "/REPOSITORY"
+baseurl: ""
 
-locale: "de-DE"
-
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jekyll-include-cache
-
-
-# Das Haupt-Navigationsmenü oben auf der Website
-navigation_links:
-  - title: "Startseite"
-    url: "/"
-  - title: "Materialien"
-    url: "/material/"
-
-
+exclude: [README.md]
+defaults:
+  - scope: { path: "" }
+    values: { layout: default }

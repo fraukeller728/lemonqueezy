@@ -1,6 +1,22 @@
-# Hauptnavigation für das Minimal Mistakes Theme
-main:
-  - title: "Startseite"
-    url: /
-  - title: "Material"
-    url: /material.md
+# Das Menü. Neuen Punkt = neuen Block. Unterpunkte = "children".
+# Die "url" muss zur Datei passen: leistungen/beratung.md -> /leistungen/beratung/
+- title: Start
+  url: /
+- title: Über uns
+  url: /ueber-uns/
+- title: Leistungen
+  url: /leistungen/
+  children:
+    - title: Beratung
+      url: /leistungen/beratung/
+    - title: Workshops
+      url: /leistungen/workshops/
+- title: Projekte
+  url: /projekte/
+  children:
+    - title: Projekt Eins
+      url: /projekte/projekt-eins/
+    - title: Projekt Zwei
+      url: /projekte/projekt-zwei/
+- title: Kontakt
+  url: /kontakt/
