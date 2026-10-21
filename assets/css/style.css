@@ -37,6 +37,8 @@ footer{max-width:46rem;margin:0 auto;padding:0 1.5rem 3rem;color:var(--muted);fo
 html.scrolled .site-header::after{opacity:1}
 .brand,.nav-toggle{position:relative;z-index:3}
 .brand{color:var(--fg);font-weight:650;letter-spacing:-.01em;padding:.5rem 0}
+.brand{display:flex;align-items:center;gap:.5rem}
+.brand-logo{height:2rem;width:auto;border-radius:.5rem}
 .nav-toggle{display:none}
 
 /* Menü (Desktop) */
