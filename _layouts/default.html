@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="{{ site.lang | default: 'de' }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.url != '/' and page.title %}{{ page.title }} – {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{{ page.lead | default: site.description }}">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  <script src="{{ '/assets/js/site.js' | relative_url }}" defer></script>
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav" aria-label="Menü"><span></span><span></span></button>
+    <div class="scrim" data-scrim></div>
+    <nav id="site-nav" class="site-nav" aria-label="Hauptmenü">
+      {% include nav.html %}
+    </nav>
+  </header>
+  <main>
+    <h1>{{ page.title }}</h1>
+    {% if page.lead %}<p class="lead">{{ page.lead }}</p>{% endif %}
+    {{ content }}
+  </main>
+  <footer><p>© {{ 'now' | date: '%Y' }} {{ site.title }}</p></footer>
+</body>
+</html>
