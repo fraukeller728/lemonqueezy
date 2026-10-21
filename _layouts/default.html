@@ -10,7 +10,10 @@
 </head>
 <body>
   <header class="site-header">
-    <a class="brand" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+    <a class="brand" href="{{ '/' | relative_url }}">
+      <img class="brand-logo" src="{{ '/assets/img/logo.png' | relative_url }}" alt="">
+      <span>{{ site.title }}</span>
+    </a>
     <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav" aria-label="Menü"><span></span><span></span></button>
     <div class="scrim" data-scrim></div>
     <nav id="site-nav" class="site-nav" aria-label="Hauptmenü">
